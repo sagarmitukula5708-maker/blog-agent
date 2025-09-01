@@ -1,0 +1,22 @@
+[
+  {
+    "name": "m-b",
+    "value": "abc123xyz...",
+    "domain": ".quora.com",
+    "path": "/",
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax",
+    "expires": 1750000000
+  },
+  {
+    "name": "m-s",
+    "value": "session_token_here",
+    "domain": ".quora.com",
+    "path": "/",
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax",
+    "expires": 1750000000
+  }
+]

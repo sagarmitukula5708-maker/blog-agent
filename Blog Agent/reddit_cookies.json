@@ -1,0 +1,22 @@
+[
+  {
+    "name": "reddit_session",
+    "value": "xyz456token...",
+    "domain": ".reddit.com",
+    "path": "/",
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax",
+    "expires": 1750000000
+  },
+  {
+    "name": "csv",
+    "value": "another_session_cookie",
+    "domain": ".reddit.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax",
+    "expires": 1750000000
+  }
+]
